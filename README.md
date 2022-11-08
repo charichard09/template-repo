@@ -11,6 +11,14 @@
 * _you used in your project_
 * _here_
 
+* _JavaScript_
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _Jest_
+* _Babel_
+* _Node.js_ 
+
 ## Description
 
 _{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
@@ -23,6 +31,19 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _easy-to-understand_
 * _format_
 
+* _Go to link:_
+* [name](https://charichard09.github.io/name)
+* _{Give input to get output} i.e. Select your toppings and hit Add Pizza to get a total_
+
+* _Alternatively:_
+* _Clone repo to a local directory_
+download node?
+* _Installing all packages with $ npm install._
+* _Building the project using webpack with $ npm run build_
+* _Starting a development server with $ npm run start_
+* _Linting JS files in the src folder with $ npm run lint_
+* _Running tests with Jest using $ npm run test_
+
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
@@ -32,7 +53,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_If you have any issues or have questions, ideas or concerns please contact me at ![charichard09@gmail.com](mailto:charichard09@gmail.com)_
+_If you have any issues or have questions, ideas or concerns please contact me at [charichard09@gmail.com](mailto:charichard09@gmail.com)_
 
 MIT License
 
