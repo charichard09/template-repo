@@ -18,6 +18,7 @@
 * _Jest_
 * _Babel_
 * _Node.js_ 
+* _webpack_
 
 ## Description
 

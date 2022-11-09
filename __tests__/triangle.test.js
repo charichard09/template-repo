@@ -3,6 +3,8 @@ import Triangle from './../src/js/triangle.js';
 describe('Triangle', () => {
 
   test('should correctly create a triangle object with three lengths', () => {
+    // hard coded variables and function calls to make code work
+    // triangle.js will contain the function declarations + function code 
     const triangle = new Triangle(2,4,5);
     expect(triangle.side1).toEqual(2);
     expect(triangle.side2).toEqual(4);
